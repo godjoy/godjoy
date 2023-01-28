@@ -2,7 +2,7 @@
 
 I'm a junior Android Developer from Korea, I like to learn and apply new skills.  
 [🍀Make your Mindgarden!](https://play.google.com/store/apps/details?id=com.mindgarden.mindgardenapp), in your Android  
-You can  see [What I studied](https://godjoy.tistory.com/) (If you can understand Korean ㅎㅎ)
+You can  see [What I have studied](https://godjoy.tistory.com/) (If you can understand Korean ㅎㅎ)
 
 ## Languages & Tools
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
